@@ -1,4 +1,4 @@
-# QRamsay
+# QRamsey
 
 Research notebooks accompanying Brani Vidakovic's *Sensitivity as Scale: Multiscale Inference for Latent Phase Drift from Ordered Ramsey Records*. These examples illustrate how a Ramsey circuit encodes detuning, how multiple waits and quadratures help resolve aliases, and how a sequential estimate can inform a delayed correction.
 
@@ -41,4 +41,4 @@ The repeated Ramsey fringes analyzed in the paper are from Samuel Neyens et al.,
 
 ## Citation
 
-Cite the accompanying manuscript for the QRamsay methods and cite the original article and dataset for each experimental archive you use.
+Cite the accompanying manuscript for the QRamsey methods and cite the original article and dataset for each experimental archive you use.
